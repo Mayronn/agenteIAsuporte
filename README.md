@@ -1,5 +1,6 @@
-# agenteIAsuporte
-# Especificação Inicial do Agente de IA
+# Agente IA - Sporte ao Cliente
+
+## Especificação Inicial do Agente de IA
 
 ## Visão Geral do Projeto
 Este agente de IA será responsável por automatizar a análise de chamadas de suporte, fornecendo insights estratégicos para otimizar o atendimento ao cliente.
